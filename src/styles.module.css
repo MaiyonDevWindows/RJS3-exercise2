@@ -1,0 +1,10 @@
+.day{
+    background-color: blue;
+    width: 80px;
+    height: 200px;
+}
+.night{
+    background-color: black;
+    width: 80px;
+    height: 200px;
+}
